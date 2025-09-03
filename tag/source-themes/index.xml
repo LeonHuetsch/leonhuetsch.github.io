@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Leon Huetsch</title>
+    <link>https://leonhuetsch.github.io/tag/source-themes/</link>
+      <atom:link href="https://leonhuetsch.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Global Natural Rates in the Long Run: Postwar Macro Trends and the Market-Implied r* in 10 Advanced Economies</title>
+      <link>https://leonhuetsch.github.io/research/rstar/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/research/rstar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequality and Risk Premia</title>
+      <link>https://leonhuetsch.github.io/oldprojects/statusproject/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/oldprojects/statusproject/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

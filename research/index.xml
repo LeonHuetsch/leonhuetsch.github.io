@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Leon Huetsch</title>
+    <link>https://leonhuetsch.github.io/research/</link>
+      <atom:link href="https://leonhuetsch.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Technological Change and Unions: An Intergenerational Conflict with Aggregate Impact (Job Market Paper)</title>
+      <link>https://leonhuetsch.github.io/research/lmi_automation/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/research/lmi_automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Natural Rates in the Long Run: Postwar Macro Trends and the Market-Implied r* in 10 Advanced Economies</title>
+      <link>https://leonhuetsch.github.io/research/rstar/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/research/rstar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Medical Expansion, Life-Expectancy and Endogenous Directed Technical Change</title>
+      <link>https://leonhuetsch.github.io/research/healthproject/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/research/healthproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of the Wealth Distribution in the Presence of Higher-Order Earnings Risk</title>
+      <link>https://leonhuetsch.github.io/research/gpce/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://leonhuetsch.github.io/research/gpce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

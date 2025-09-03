@@ -1,0 +1,13 @@
+# Ignore broken git backups
+.git_broken_*/
+
+# Hugo / Blogdown
+resources/_gen/
+public/
+_vendor/
+
+# R / macOS cruft
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
