@@ -2,15 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OldProjects | Leon Huetsch</title>
-    <link>https://leonhuetsch.github.io/oldprojects/</link>
-      <atom:link href="https://leonhuetsch.github.io/oldprojects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.leonhuetsch.com/oldprojects/</link>
+      <atom:link href="https://www.leonhuetsch.com/oldprojects/index.xml" rel="self" type="application/rss+xml" />
     <description>OldProjects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.leonhuetsch.com/media/logo_hu44f286ad595b471017cf84432bbe13b4_5796_300x300_fit_lanczos_3.png</url>
+      <title>OldProjects</title>
+      <link>https://www.leonhuetsch.com/oldprojects/</link>
+    </image>
+    
     <item>
       <title>Inequality and Risk Premia</title>
-      <link>https://leonhuetsch.github.io/oldprojects/statusproject/</link>
+      <link>https://www.leonhuetsch.com/oldprojects/statusproject/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://leonhuetsch.github.io/oldprojects/statusproject/</guid>
+      <guid>https://www.leonhuetsch.com/oldprojects/statusproject/</guid>
       <description></description>
     </item>
     
