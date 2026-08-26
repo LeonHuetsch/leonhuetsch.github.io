@@ -1308,5 +1308,26 @@
 
 
 
+<script>
+  // Keep the home and research menu states in sync with the scroll position.
+  (function () {
+    const navbar = document.querySelector("#navbar-main");
+    const homeLink = navbar.querySelector("[data-target=\"#about\"]");
+    const researchLink = navbar.querySelector("[data-target=\"#research\"]");
+    const researchSection = document.querySelector("#research");
+
+    function updateActiveMenu() {
+      const researchIsActive = researchSection.getBoundingClientRect().top <= navbar.offsetHeight + 20;
+      homeLink.classList.toggle("active", !researchIsActive);
+      researchLink.classList.toggle("active", researchIsActive);
+    }
+
+    updateActiveMenu();
+    window.addEventListener("load", updateActiveMenu);
+    window.addEventListener("scroll", updateActiveMenu, { passive: true });
+    window.addEventListener("resize", updateActiveMenu);
+  }());
+</script>
+
 </body>
 </html>
