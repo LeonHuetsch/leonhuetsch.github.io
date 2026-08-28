@@ -1330,7 +1330,8 @@
 
     function updateActiveMenu() {
       const activeOffset = navbar.offsetHeight + 20;
-      const teachingIsActive = teachingSection.getBoundingClientRect().top <= activeOffset;
+      const atPageBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2;
+      const teachingIsActive = teachingSection.getBoundingClientRect().top <= Math.max(activeOffset, window.innerHeight * 0.65) || atPageBottom;
       const researchIsActive = !teachingIsActive && researchSection.getBoundingClientRect().top <= activeOffset;
       homeLink.classList.toggle("active", !researchIsActive && !teachingIsActive);
       researchLink.classList.toggle("active", researchIsActive);
